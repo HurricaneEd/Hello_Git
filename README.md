@@ -1,6 +1,5 @@
-```bash
 # 学习资源
-https://liaoxuefeng.com/books/git/introduction/index.html
+**https://liaoxuefeng.com/books/git/introduction/index.html**
 
 # 进入项目根目录
 cd /path/to/your/project
