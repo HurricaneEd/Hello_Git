@@ -1,5 +1,5 @@
 ```bash
-** 学习资源 **
+# 学习资源
 https://liaoxuefeng.com/books/git/introduction/index.html
 
 # 进入项目根目录
