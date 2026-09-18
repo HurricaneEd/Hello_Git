@@ -40,10 +40,12 @@ git commit -m "更新说明"      # 提交
 
 git push                     # 推送（已关联后可省略远程和分支名）
 ## 分支
-创建分支：git branch <name>
+查看分支：git branch
 
-切换分支：git checkout <name>或者git switch <name>
+创建分支：git branch &lt;name&gt;
 
-合并某分支到当前分支：git merge <name>
+切换分支：git checkout &lt;name&gt;或者git switch &lt;name&gt;
 
-删除分支：git branch -d <name>
+合并某分支到当前分支：git merge &lt;name&gt;
+
+删除分支：git branch -d &lt;name&gt;
